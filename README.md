@@ -11,3 +11,9 @@ Při naklonění dopředu se bude pohybovat tímto směrem rychlostí, která bu
 Při naklonění do stran bude autíčko zatáčet tímto směrem. Při náklonu zpět bude autíčko couvat. 
 Na dálkovém ovladači bude několik led diod, aby bylo možné kontrolovat, jestli ovladač správně chápe příkazy.
 Příkazy bude následně posílat autíčku.
+
+Plán konzultací:
+4. týden v lednu konstrukce autíčka s pohonem zadních kol
+2. týden v únoru připravený program pro arduino na autíčku
+1. týden v březnu sestrojený ovladač na dálkové ovládání
+3. týden v březnu Dokončené výrobky a dokumentace
