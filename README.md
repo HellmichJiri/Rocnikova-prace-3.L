@@ -15,6 +15,9 @@ Příkazy bude následně posílat autíčku.
 Plán konzultací:
 
 první týden v únoru - konstrukce autíčka s pohonem zadních kol
+
 první týden v březnu - připravený program pro arduino na autíčku
+
 Začátek dubna - sestrojený ovladač na dálkové ovládání
+
 čtvrtý týden v dubnu - dokončené výrobky a dokumentace
