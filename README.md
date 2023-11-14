@@ -13,6 +13,7 @@ Na dálkovém ovladači bude několik led diod, aby bylo možné kontrolovat, je
 Příkazy bude následně posílat autíčku.
 
 Plán konzultací:
+
 4. týden v lednu konstrukce autíčka s pohonem zadních kol
 2. týden v únoru připravený program pro arduino na autíčku
 1. týden v březnu sestrojený ovladač na dálkové ovládání
