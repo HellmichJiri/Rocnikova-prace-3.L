@@ -4,7 +4,7 @@ Ročníková práce na autíčko dle naklanění ovladače
 Projekt se bude skládat ze dvou výrobků.
 Oba výrobky budou založeny na mikropočítači arduino.
 
-Autíčko bude s pohonem zadních kol. Kařdé kolo bude mít samostatný pohon. Přední kola bude možná natášet, aby mohlo autíčko zatáčet. Příkazy bude autíčko dostávat dálkově.
+Autíčko bude s pohonem zadních kol. Každé kolo bude mít samostatný pohon. Přední kola bude možná natášet, aby mohlo autíčko zatáčet. Příkazy bude autíčko dostávat dálkově.
 
 Dálkové ovládání bude obsahovat gyroskopický senzor. 
 Při naklonění dopředu se bude pohybovat tímto směrem rychlostí, která bude odpovídat intentitě naklonění.
